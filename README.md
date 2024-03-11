@@ -1,4 +1,7 @@
 ### Hi there, I'm Kevin! I'm an iOS developer with 2+ years of experience working with legacy, enterprise, and startup apps!
+My formal education was in Biotechnology as I grew up with the typical goal of eventually becoming a doctor. However, I was no stranger to programming and the computer science industry due to my dad's influence since he has a PhD in computer science and serves as an instructor at my state university. Thus, I spent some time early on doing small games with C++ and other programming tasks in Python. Over time, I realized with programming, you can do pretty much anything you wanted just with a computer and an internet connection. I chose to pursue the iOS route at the recommendation of a friend and preference for both iPhones and something front-end for immediate feedback. Which leads us here!
+
+I've recently been working on diving deeper into general programming topics (IoC dependency injection, proper caching, general architecture), iOS specific topics (MapKit/CoreLocation, HealthKit, performance improvement techniques via emerge/instruments), and platform agnostic connections (analytics and backends as services like Firebase, MixPanel, Amplitude, etc).
 
 ---
 
